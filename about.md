@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Pavel, and I live in the Ukraine.
 
-### More Information
+This blog is where I share my thoughts, ideas, and experiments with varying levels of detail. The content is primarily focused on programming, as I currently work as a software engineer. However, having explored various fields and industries, you might find occasional detours into other topics as well.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Thanks for visiting, and I hope you enjoy the read!
