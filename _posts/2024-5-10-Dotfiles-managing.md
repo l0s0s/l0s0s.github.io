@@ -14,9 +14,7 @@ Chezmoi is a powerful tool for managing dotfiles. It allows you to version your 
 To start, you need to install Chezmoi. It is available for various platforms, including Linux, macOS, and Windows. You can install it by following the official documentation or using a package manager.
 
 ```bash
-# install chezmoi on ubuntu
-sudo apt update
-sudo apt install chezmoi
+sh -c "$(curl -fsLS get.chezmoi.io)"
 ```
 
 After installing Chezmoi, you can start managing your dotfiles.
