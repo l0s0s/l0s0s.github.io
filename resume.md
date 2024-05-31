@@ -26,8 +26,6 @@ Innovative and results-driven software developer with over 3 years of experience
 
 Cashback Service for YAP Bank
 
-https://www.yap.com/en/uae
-
 - Spearheaded the development and deployment of a high-performance cashback service platform, meticulously designed to seamlessly integrate with the YAP Bank ecosystem.
 - Implemented sophisticated algorithms to calculate cashback rewards in real-time, ensuring accuracy and user satisfaction.
 - Collaborated with cross-functional teams to refine user interfaces.
@@ -36,15 +34,11 @@ https://www.yap.com/en/uae
 
 Engineered a platform for connecting artists with venues via a simple marketplace for live gigs.
 
-https://www.gigitone.com/
-
 - Take participation in implementation of a feature-rich marketplace, incorporating an intuitive matching algorithm that pairs artists with venues based on preferences, budget, and schedule.
 
 ##### Evergen
 
 A market leader in renewable energy software, specializing in optimizing the performance of battery systems across residential, commercial, and utility scales.
-
-https://evergen.energy/
 
 - Take part in the creation of a renewable energy system that integrates advanced technologies for sustainable power generation and efficient energy management.
 
