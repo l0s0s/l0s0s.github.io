@@ -46,6 +46,8 @@ A market leader in renewable energy software, specializing in optimizing the per
 
 https://evergen.energy/
 
+- Take part in the creation of a renewable energy system that integrates advanced technologies for sustainable power generation and efficient energy management.
+
 ##### Aooth
 
 A authentication system designed to bolster security measures and user experience in web-based environments.
