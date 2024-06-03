@@ -13,7 +13,7 @@ permalink: /projects/
 - **Databases**: Firebase
 - **Cloud**: Vercel
 
-### Wallify
+### [Wallify](https://www.wallify.info/)
 
 A user-friendly platform designed for anyone looking to personalize their desktop with a wide selection of stunning wallpapers.
 
